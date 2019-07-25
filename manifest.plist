@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www</string>
+					<string>https://github.com/13699822173/shulaibao/blob/master/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www</string>
+					<string>https://github.com/13699822173/shulaibao/blob/master/icon-1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cdn.pursedada.com/BLDCProgect.ipa</string>
+					<string>http://112.126.98.166:20010/ipa/shulaibao-release.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BLDCProgect</string>
+				<string>数来宝</string>
 			</dict>
 		</dict>
 	</array>
