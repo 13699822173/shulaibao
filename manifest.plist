@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/13699822173/shulaibao/blob/master/icon-57.png</string>
+					<string>http://112.126.98.166:20010/ipa/BLDCProgect.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/13699822173/shulaibao/blob/master/icon-1024.png</string>
+					<string>https://github.com/13699822173/shulaibao/blob/master/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cdn.pursedada.com/BLDCProgect.ipa</string>
+					<string>https://github.com/13699822173/shulaibao/blob/master/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
